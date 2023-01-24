@@ -8,6 +8,7 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
+```
 Step 1
 Import the numpy module to use the built-in functions for calculation
 Step 2
@@ -16,7 +17,7 @@ Step 3
 Using the np.linalg.solve(), we can find the solutions.
 Step 4
 End the program
-
+```
 ## Program:
 (i) To find the L and U matrix
 ```
@@ -47,7 +48,6 @@ x=lu_solve((lu,piv),b)
 print(x)
 ```
 ## Output:
-
 ![ara](https://user-images.githubusercontent.com/118790841/212035520-ea82f43e-8772-495a-a9d8-dfe456a07cec.png)
 ![ara 2](https://user-images.githubusercontent.com/118790841/212035530-b0957d60-80dc-4139-9dc6-72fed14a8704.png)
 
