@@ -51,7 +51,9 @@ x=lu_solve((lu,piv),b)
 print(x)
 ```
 ## Output:
+## LU 1:
 ![ara](https://user-images.githubusercontent.com/118790841/212035520-ea82f43e-8772-495a-a9d8-dfe456a07cec.png)
+## LU 2:
 ![ara 2](https://user-images.githubusercontent.com/118790841/212035530-b0957d60-80dc-4139-9dc6-72fed14a8704.png)
 
 ## Result:
