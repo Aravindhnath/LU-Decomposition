@@ -52,5 +52,5 @@ print(x)
 ![ara 2](https://user-images.githubusercontent.com/118790841/212035530-b0957d60-80dc-4139-9dc6-72fed14a8704.png)
 
 ## Result:
-Thus the solutions for the LU decomposition are successfully solved using python progra
+Thus the solutions for the LU decomposition are successfully solved using python program.
 
